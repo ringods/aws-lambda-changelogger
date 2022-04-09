@@ -1,0 +1,3 @@
+name: aws-lambda-changelogger
+runtime: nodejs
+description: Log every upload of a bucket object

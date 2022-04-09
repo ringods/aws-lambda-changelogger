@@ -1,0 +1,13 @@
+{
+    "name": "aws-lambda-changelogger",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^5.0.0",
+        "@pulumi/awsx": "^0.40.0",
+        "@pulumi/pulumi": "^3.0.0",
+        "@thinkinglabs/aws-iam-policy": "^2.3.0",
+        "aws-sdk": "^2.1111.0"
+    }
+}
